@@ -7,3 +7,4 @@ Objectives of this project:
 * Capable of managing N LEDs.
 * SW implementation with a list of patterns and callbacks to manage each LED.
 * Minimal processing time needed for starting/stopping a LED pattern, main processing must occur in thread.
+* Possibility of selecting if all patterns currently playing must be aligned or asynchronous
